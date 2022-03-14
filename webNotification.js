@@ -1,6 +1,5 @@
 (function() {
 
-
 	$('.accessBox').on('click', function() {
 
 		$('.sandBox').slideToggle(300, 'swing');
