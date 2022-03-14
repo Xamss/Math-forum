@@ -10,6 +10,7 @@ function toggleClass(elem,className){
   }
   
   
+  
 function toggleMenuDisplay(e){
     const dropdown = e.currentTarget.parentNode;
     console.log(e.currentTarget.parentNode);
