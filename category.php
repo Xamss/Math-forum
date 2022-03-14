@@ -1,5 +1,6 @@
 <?php
 include 'header.php';
+
 ?>
 <div id="page__inner">
 <div id = "content1">
